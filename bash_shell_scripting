@@ -1,0 +1,21 @@
+///substring in bash
+x="shell scripting"
+echo ${x:2:5}//start position ,how many chars
+--ell s.
+//strings path
+real path -- just appends fname to path
+realpath filename
+/../dd/sss/filename
+basename -- strips path gives filename
+basename (complete path)
+dirname -- strips the extensions and gives fine name
+dirname (comp path) .sh/.bh (extensions)
+--pdf there in folder
+
+//getting input ,output from keyboard
+read--reads ip from keyboard
+$REPLY--if no variable is declared then default variable
+
+
+
+
