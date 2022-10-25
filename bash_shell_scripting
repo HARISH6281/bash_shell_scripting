@@ -17,5 +17,10 @@ read--reads ip from keyboard
 $REPLY--if no variable is declared then default variable
 
 
+command chaining operation
 
+four operators -- ; ,&&,||, && ||.
+; -- semicolon // executes cmd2 regardless of success of failure of cmd1
+&& -- logical AND cmd2 executes only after success of cmd1
+|| -- logical OR cmd2 executes only after failure of cmd1
 
