@@ -34,4 +34,26 @@ done
 -->to get 1 to 20 num we have cmd -- seq 1 20
 
 
+//$@---taking input from the command line
+
+if condition
+then
+    cmd1
+    cmd2
+else
+    cmd3
+    cmd4
+fi
+
+//multiple line arguments
+<<<start
+
+trats
 //
+$*--printing all the given elements in 1 line
+$@--printing all elements as separate lines
+
+
+
+
+
