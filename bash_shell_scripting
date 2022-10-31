@@ -24,3 +24,14 @@ four operators -- ; ,&&,||, && ||.
 && -- logical AND cmd2 executes only after success of cmd1
 || -- logical OR cmd2 executes only after failure of cmd1
 
+loops
+for(cnt=0;cnt<10;cnt++)
+do
+  cmd1
+  cmd2
+done
+
+-->to get 1 to 20 num we have cmd -- seq 1 20
+
+
+//
