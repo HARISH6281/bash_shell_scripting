@@ -53,6 +53,26 @@ trats
 $*--printing all the given elements in 1 line
 $@--printing all elements as separate lines
 
+//sed cmd
+
+sed 's/old/new'  file replaces first occurence
+
+sed 's/old/new/g'  file replaces globally
+
+
+sed '/search/s/old/new'  file if search word there is then replaces
+
+i-before line.a-after,d-delete
+sed -i '1i  whatever u want to insert'   file--before line 1 it will be inserted
+regex
+/-escape
+/s -spce
+/t -tab
+.---p.t in between all
+\?--matches o or 1
+\*--zero to all
+\+==min 1 to all
+
 
 
 
